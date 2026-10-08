@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/hTr62N8Rjw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mrrob\\Downloads\\gp c#\\p1\\Space Invaders Test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mrrob\\.nuget\\packages\\raylib-cs\\8.1.0\\raylib-cs.8.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
